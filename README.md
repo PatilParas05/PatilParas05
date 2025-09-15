@@ -7,7 +7,7 @@
 
 <div align="center">
   <h2>📊 My GitHub Stats</h2>
-<img src="https://github-readme-stats.vercel.app/api?username=PatilParas05&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&rank_icon=percentile&hide=contribs" alt="GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=PatilParas05&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&rank_icon=percentile" alt="GitHub Stats">
 </div>
 
 ---
