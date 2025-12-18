@@ -1,7 +1,13 @@
 <div align="center">
   <h1>👋 Hi there, I'm Paras Patil!</h1>
-  <p>A passionate Android Developer building amazing things with Jetpack Compose.</p>
-</div>
+    <p>
+        A passionate and self‑taught Android developer building amazing things with Jetpack Compose.    
+        I enjoy creating clean and simple apps using Kotlin and modern Android tools.  
+        I love learning new things, improving my skills, and sharing knowledge with others.
+    </p>
+       🎮 When I'm not coding, I enjoy playing Valorant and Counter‑Strike.  
+</div> 
+
 
 ---
 
@@ -11,6 +17,7 @@
 </div>
 
 ---
+
 
 ## 🔗 Know More About Me
 
@@ -27,19 +34,32 @@
   <a href="https://instagram.com/parass_patil/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
+  <a href="https://x.com/parass_patil" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"  />
+  </a>
 </p>
 
 ---
 
 ### 🌱 I'm currently learning...
-- **Kotlin** 
+- **Kotlin**
+- **KPM** 
 - **Jetpack Compose**
 - Other...
 
-
-<br>
+---
+### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PatilParas05&color=blue" alt="Profile views">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Material%20Design-757575?style=for-the-badge&logo=materialdesign&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
-<br>
+
