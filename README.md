@@ -10,6 +10,7 @@
 - 📱 Android Developer focused on **Jetpack Compose**
 - 🧠 Kotlin & Clean Architecture enthusiast
 - 🏗 Building scalable & maintainable apps
+- 👨‍💻 I develop Mobile, Web apps and Backend server.
 - ✍️ Writing & sharing what I learn
 - 🎮 Loves Valorant & Counter-Strike
 
