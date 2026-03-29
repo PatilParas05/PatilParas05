@@ -7,20 +7,12 @@
 
 ## 👨‍💻 Welcome to my hub
 
-- 📱 Android Developer focused on **Jetpack Compose**
+- 📱 Android Developer focused on **Jetpack Compose** and Many things
 - 🧠 Kotlin & Clean Architecture enthusiast
 - 🏗 Building scalable & maintainable apps
 - 👨‍💻 I develop Mobile, Web apps and Backend server.
 - ✍️ Writing & sharing what I learn
 - 🎮 Loves Valorant & Counter-Strike
-
----
-
-## 📊 Github Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PatilParas05&theme=tokyonight&hide_border=true" height="170"/>
-</p>
 
 ---
 
