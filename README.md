@@ -1,7 +1,7 @@
 <!-- INTRO -->
 # Hi there 👋! I'm Paras 🚀
 
-<i><b>LATEST UPDATE:</b> Exploring AI tools, Kotlin Multiplatform & Building Offline-First Apps 🧠</i>
+<i><b>LATEST UPDATE:</b> Exploring AI tools, Kotlin Multiplatform & Learning AI and ML 🧠</i>
 
 ---
 
