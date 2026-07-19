@@ -1,7 +1,7 @@
 <!-- INTRO -->
 # Hi there 👋! I'm Paras 🚀
 
-<i><b>LATEST UPDATE:</b> Exploring AI tools & Learning AI and ML 🧠</i>
+<i><b>LATEST UPDATE:</b> Exploring AI tools, Android & Learning AI and ML 🧠</i>
 
 ---
 
