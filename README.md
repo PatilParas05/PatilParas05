@@ -1,5 +1,5 @@
 <!-- INTRO -->
-# Hi there 👋! I'm Paras 🚀
+# Hi there 👋! I'm [Paras](https://patilparas05.github.io)🚀
 
 <i><b>LATEST UPDATE:</b> Exploring AI tools, Android & Learning AI and ML 🧠</i>
 
